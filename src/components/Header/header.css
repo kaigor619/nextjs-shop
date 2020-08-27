@@ -1,0 +1,71 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  padding: 10px 0;
+  font-family: 'Francois One', sans-serif;
+  color: #000000b0;
+  box-shadow: 0px 0px 4px 0px #afafaf;
+}
+.store-title {
+  margin-left: 10px;
+  color: #000000b0;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.store-title:hover {
+  color: #000000b0;
+  text-decoration: none;
+}
+.menu-store {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 30px;
+  font-size: 1.125rem;
+  display: flex;
+}
+.basket_link,
+.basket_link:hover {
+  text-decoration: none;
+}
+
+.menu-store li {
+  margin-right: 10px;
+}
+
+.basket-header {
+  color: #383838;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.basket-i {
+  font-size: 1.8rem;
+  color: #383838;
+}
+.basket-count {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: red;
+  border-radius: 50%;
+  color: #fff;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translate(30%, -40%);
+  font-size: 12px;
+}
+
+@media screen and (max-width: 500px) {
+  html {
+    font-size: 14px;
+  }
+  .menu-store {
+    padding-left: 15px;
+  }
+}

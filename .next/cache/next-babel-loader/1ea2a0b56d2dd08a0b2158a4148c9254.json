@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Cart from './Cart';\nexport default Cart;","map":{"version":3,"sources":["D:/Programming languages/Next.js/re-store/src/pages/cart/index.js"],"names":["Cart"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,QAAjB;AAEA,eAAeA,IAAf","sourcesContent":["import Cart from './Cart'\r\n\r\nexport default Cart\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,12 @@
+.error_block {
+  width: 100%;
+  text-align: center;
+  margin-top: 100px;
+}
+.error_block img {
+  width: 200px;
+  height: auto;
+}
+.error_block_text {
+  font-size: 22px;
+}

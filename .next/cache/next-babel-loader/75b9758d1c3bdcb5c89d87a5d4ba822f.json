@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ProductCounter from './product-counter';\nexport default ProductCounter;","map":null,"metadata":{},"sourceType":"module"}

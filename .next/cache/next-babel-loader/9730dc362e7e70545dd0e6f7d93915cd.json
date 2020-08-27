@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Error from './error';\nexport default Error;","map":null,"metadata":{},"sourceType":"module"}

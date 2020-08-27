@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from '../src/components/App';\nimport 'bootstrap/dist/css/bootstrap.min.css';\nimport '../src/components/Header/Header.css';\nimport '../src/components/Modal/Modal.css';\nexport default App;","map":null,"metadata":{},"sourceType":"module"}

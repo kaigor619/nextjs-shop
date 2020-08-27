@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from '../src/components/App';\nexport default App;","map":{"version":3,"sources":["D:/Programming languages/Next.js/re-store/pages/_app.js"],"names":["App"],"mappings":"AAAA,OAAOA,GAAP,MAAgB,uBAAhB;AAEA,eAAeA,GAAf","sourcesContent":["import App from '../src/components/App'\r\n\r\nexport default App\r\n"]},"metadata":{},"sourceType":"module"}

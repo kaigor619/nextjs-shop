@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Shop from '../src/pages/shop';\nexport default Shop;","map":null,"metadata":{},"sourceType":"module"}

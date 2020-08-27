@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Shop from '../src/pages/shop';\nexport default Shop;","map":{"version":3,"sources":["D:/Programming languages/Next.js/re-store/pages/index.js"],"names":["Shop"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,mBAAjB;AAEA,eAAeA,IAAf","sourcesContent":["import Shop from '../src/pages/shop'\r\n\r\nexport default Shop\r\n"]},"metadata":{},"sourceType":"module"}
