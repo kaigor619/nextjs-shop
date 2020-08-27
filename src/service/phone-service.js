@@ -1,5 +1,5 @@
 export default function PhoneService() {
-  const _apiBase = 'http://localhost:3000/api/phones'
+  const _apiBase = 'https://nextjs-shop.herokuapp.com/api/phones'
 
   const getResource = async (url) => {
     const res = await fetch(`${_apiBase}${url}`)
